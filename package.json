@@ -1,0 +1,39 @@
+{
+  "name": "react-native-secure-storage-zh",
+  "title": "React Native Secure Storage Zhaohai",
+  "version": "0.1.2",
+  "description": "A secure AsyncStorage partial implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whiskerman/react-native-secure-storage-zh.git",
+    "baseUrl": "https://github.com/whiskerman/react-native-secure-storage-zh"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "mobile",
+    "ios",
+    "android",
+    "keychain",
+    "secure"
+  ],
+  "author": {
+    "name": "Sean Zhao",
+    "email": "sean.zhao@live.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": ">=16.0.0-alpha.6",
+    "react-native": ">=0.44.1"
+  },
+  "devDependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-native": "^0.44.1"
+  }
+}
